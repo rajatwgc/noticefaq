@@ -38,6 +38,7 @@ With the default configuration, this plugin, in itself, does not:
 
 If you activate certain features in this plugin, the contact form submitter's personal data including their IP address may be sent to the service provider.
 * Projects, ContactForm ([notice.studio/privacy](https://notice.studio/privacy/))
+* Projects, ContactForm ([notice.studio/terms-of-use](https://notice.studio/terms-of-use/))
 
 == Installation ==
 
