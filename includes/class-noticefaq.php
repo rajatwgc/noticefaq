@@ -86,8 +86,8 @@ class Noticefaq {
 		add_menu_page( 'Notice FAQ', 'Notice FAQ', 'manage_options', 'noticefaq', array( $this , 'noticefaq_init' ),'dashicons-lightbulb', 10 );
     }
 	public function enqueue_noticefaq_scripts(){
-		wp_enqueue_script('noticefaq-js', 'https://bundle.notice.studio/index.js');
-		wp_enqueue_style('noticefaq-css', 'https://bundle.notice.studio/index.css');
+		wp_enqueue_script('noticefaq-js', 'https://bundle.notice.studio/index.js'); /*External styling support provided by notice.studio, please refer README.txt for more details.*/
+		wp_enqueue_style('noticefaq-css', 'https://bundle.notice.studio/index.css'); /*External js to support project animations and render by notice.studio, please refer README.txt for more details.*/
 		
 	}
 	public function noticefaq_init(){
