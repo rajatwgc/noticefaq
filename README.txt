@@ -31,9 +31,9 @@ You can find detailed information about Notice FAQ on [notice.studio](https://no
 
 With the default configuration, this plugin, in itself, does not:
 
-* track users by stealth;
-* write any user personal data to the database;
-* send any data to external servers;
+* track users by stealth.
+* write any user personal data to the database.
+* send any data to external servers.
 * use cookies.
 
 If you activate certain features in this plugin, the contact form submitter's personal data including their IP address may be sent to the service provider.
