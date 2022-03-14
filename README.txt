@@ -19,7 +19,7 @@ Notice includes a contact form, articles rating, analytics and a search bar. Itâ
 
 *By displaying Rich Snippets thanks to structured data, Notice makes your content stand out and rank higher than classic content on search engines.
 
-Notice FAQ uses notice.studio 3rd party services such as [stylesheet](https://bundle.notice.studio/index.css) and [javascript](https://bundle.notice.studio/index.js) to render the project on your website based on [terms of use](https://notice.studio/terms-of-use/). 
+Notice FAQ uses notice.studio 3rd party services such as [stylesheet](https://bundle.notice.studio/index.css) which is used to support project styling and [javascript](https://bundle.notice.studio/index.js) to support animations and to render the project on your website based on [terms of use](https://notice.studio/terms-of-use/). 
 
 
 = Docs and support =
